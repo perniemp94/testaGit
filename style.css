@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    
+}
+#parent {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    height: 200px;
+    border: 5px solid black;
+}
+.box {
+    
+    background-color: lightblue;
+    flex: 1;
+}
