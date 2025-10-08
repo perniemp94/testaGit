@@ -14,3 +14,6 @@
     background-color: lightblue;
     flex: 1;
 }
+.box1 {
+    flex: 2;
+}
